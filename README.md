@@ -1,16 +1,13 @@
-## Hi there 👋
+### About Me 🚀
 
-<!--
-**Seven7-lua/Seven7-lua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create script exploits for Roblox and specialize in scripting languages like Lua, Luau, and JavaScript. 🛠️ Always exploring new challenges and optimizing code for the best performance. 🎯
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Stats 📊
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Seven7-lua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seven7-lua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Most Used Languages" />  
+  
